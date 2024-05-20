@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋,I'm Daucloud.
 
-<!--
-**Daucloud/Daucloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently majoring in computer science and technology in Tsinghua University.
+- 🌱 I’m currently learning Everything I like.
+- 📫 How to reach me: Xinyuanz120712@gmail.com
 
-Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api?username=Daucloud&show_icons=true&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You are my ![Visitor Count](https://profile-counter.glitch.me/Daucloud/count.svg) visitor,Thank You! :kissing_heart: :kissing_heart:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daucloud&layout=compact&theme=tokyonight)
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=Daucloud&theme=dracula)
