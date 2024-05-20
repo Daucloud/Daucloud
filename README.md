@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently majoring in computer science and technology in Tsinghua University.
 - 🌱 I’m currently learning Everything I like.
-- 📫 How to reach me: Xinyuanz120712@gmail.com
+- 📫 How to reach me: xinyuanz120712@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=Daucloud&show_icons=true&theme=transparent)
 
