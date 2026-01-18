@@ -36,8 +36,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daucloud&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daucloud&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
+  <img src="./profile/stats.svg" height="150" alt="stats graph" />
+  <img src="./profile/langs.svg" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
