@@ -41,7 +41,7 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/fireworks-dark.svg" />
-    <img src="./profile/fireworks.svg" alt="Contribution fireworks" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daucloud/Daucloud/output/fireworks-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Daucloud/Daucloud/output/fireworks.svg" alt="Contribution fireworks" />
   </picture>
 </div>

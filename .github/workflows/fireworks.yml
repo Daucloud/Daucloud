@@ -1,4 +1,4 @@
-name: Generate fireworks
+name: Contribution fireworks
 
 on:
   schedule:
@@ -9,21 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  fireworks:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
-      - uses: actions/setup-python@v6
-        with:
-          python-version: "3.12"
-      - name: Render fireworks
-        run: python scripts/fireworks.py ${{ github.repository_owner }} profile
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Commit
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/fireworks*.svg
-          git commit -m "Update fireworks" || exit 0
-          git pull --rebase && git push
+      - uses: Daucloud/contribution-fireworks@v1
