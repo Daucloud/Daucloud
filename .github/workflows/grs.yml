@@ -18,17 +18,35 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&hide_border=true&card_width=420&theme=default
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
-      - name: Generate top-langs card
+      - name: Generate stats-dark card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&hide_border=true&card_width=420&theme=github_dark
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate langs card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&card_width=320&theme=default
           path: profile/langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate langs-dark card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&card_width=320&theme=github_dark
+          path: profile/langs-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 

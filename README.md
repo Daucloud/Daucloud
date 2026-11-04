@@ -1,20 +1,11 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&background=00000000&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Daucloud;CS+Undergrad+@+Tsinghua;Always+building+cool+stuff..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=460&lines=Hi+there!+%F0%9F%91%8B+I'm+Daucloud;CS+Undergrad+%40+Tsinghua;Always+building+cool+stuff..." alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="mailto:xinyuanz120712@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/Daucloud">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.zhihu.com/people/daucloud">
-    <img src="https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="Zhihu" />
-  </a>
-  <a href="https://www.daucloud.com/">
-    <img src="https://img.shields.io/badge/Blog-333333?style=for-the-badge&logo=firefox&logoColor=white" alt="Blog" />
-  </a>
+  <a href="mailto:xinyuanz120712@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.daucloud.com/"><img src="https://img.shields.io/badge/Blog-FF4088?style=flat-square&logo=hugo&logoColor=white" alt="Blog" /></a>
+  <a href="https://www.zhihu.com/people/daucloud"><img src="https://img.shields.io/badge/Zhihu-0084FF?style=flat-square&logo=zhihu&logoColor=white" alt="Zhihu" /></a>
 </div>
 
 <br/>
@@ -26,20 +17,31 @@
 
 <br/>
 
-<h3 align="center">🛠️ Languages & Tools</h3>
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,java,vue,react,linux,git,vim,pytorch,docker,latex&perline=11&theme=dark" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Ccpp%2Cjava%2Cvue%2Creact%2Clinux%2Cgit%2Cvim%2Cpytorch%2Cdocker%2Clatex&perline=11&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,java,vue,react,linux,git,vim,pytorch,docker,latex&perline=11&theme=light" alt="Languages & Tools" />
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./profile/stats.svg" height="150" alt="stats graph" />
-  <img src="./profile/langs.svg" height="150" alt="languages graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+    <img src="./profile/stats.svg" height="165" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/langs-dark.svg" />
+    <img src="./profile/langs.svg" height="165" alt="Top languages" />
+  </picture>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github.com/Daucloud/Daucloud/blob/output/github-contribution-grid-snake.svg" alt="snake graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/fireworks-dark.svg" />
+    <img src="./profile/fireworks.svg" alt="Contribution fireworks" />
+  </picture>
 </div>
